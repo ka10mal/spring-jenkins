@@ -74,7 +74,7 @@ pipeline {
                 
              }
         }
-      //  stage('commit version update'){
+      //  stage('commit version update'){//
           //  steps{
             //    script{
                 //    withCredentials([usernamePassword(credentialsId: 'git-credentials', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]){
